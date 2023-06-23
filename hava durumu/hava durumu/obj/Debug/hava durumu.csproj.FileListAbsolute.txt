@@ -1,8 +1,0 @@
-C:\Users\Emre Alper\Desktop\görsel-3 final\hava durumu\hava durumu\bin\Debug\hava durumu.exe.config
-C:\Users\Emre Alper\Desktop\görsel-3 final\hava durumu\hava durumu\bin\Debug\hava durumu.exe
-C:\Users\Emre Alper\Desktop\görsel-3 final\hava durumu\hava durumu\bin\Debug\hava durumu.pdb
-C:\Users\Emre Alper\Desktop\görsel-3 final\hava durumu\hava durumu\obj\Debug\hava durumu.csproj.AssemblyReference.cache
-C:\Users\Emre Alper\Desktop\görsel-3 final\hava durumu\hava durumu\obj\Debug\hava durumu.csproj.SuggestedBindingRedirects.cache
-C:\Users\Emre Alper\Desktop\görsel-3 final\hava durumu\hava durumu\obj\Debug\hava durumu.csproj.CoreCompileInputs.cache
-C:\Users\Emre Alper\Desktop\görsel-3 final\hava durumu\hava durumu\obj\Debug\hava durumu.exe
-C:\Users\Emre Alper\Desktop\görsel-3 final\hava durumu\hava durumu\obj\Debug\hava durumu.pdb
