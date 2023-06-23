@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hava durumu", "hava durumu\hava durumu.csproj", "{4560644C-E657-41E4-8C05-134F8BACB7D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4560644C-E657-41E4-8C05-134F8BACB7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4560644C-E657-41E4-8C05-134F8BACB7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4560644C-E657-41E4-8C05-134F8BACB7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4560644C-E657-41E4-8C05-134F8BACB7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D273AD29-18D4-4213-B790-0B7824084FCB}
+	EndGlobalSection
+EndGlobal
