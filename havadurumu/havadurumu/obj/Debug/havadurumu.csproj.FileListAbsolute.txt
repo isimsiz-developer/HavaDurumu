@@ -1,0 +1,11 @@
+C:\Users\Emre Alper\Desktop\görsel-3 final\havadurumu\havadurumu\bin\Debug\havadurumu.exe.config
+C:\Users\Emre Alper\Desktop\görsel-3 final\havadurumu\havadurumu\bin\Debug\havadurumu.exe
+C:\Users\Emre Alper\Desktop\görsel-3 final\havadurumu\havadurumu\bin\Debug\havadurumu.pdb
+C:\Users\Emre Alper\Desktop\görsel-3 final\havadurumu\havadurumu\obj\Debug\havadurumu.csproj.AssemblyReference.cache
+C:\Users\Emre Alper\Desktop\görsel-3 final\havadurumu\havadurumu\obj\Debug\havadurumu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre Alper\Desktop\görsel-3 final\havadurumu\havadurumu\obj\Debug\havadurumu.Form1.resources
+C:\Users\Emre Alper\Desktop\görsel-3 final\havadurumu\havadurumu\obj\Debug\havadurumu.Properties.Resources.resources
+C:\Users\Emre Alper\Desktop\görsel-3 final\havadurumu\havadurumu\obj\Debug\havadurumu.csproj.GenerateResource.cache
+C:\Users\Emre Alper\Desktop\görsel-3 final\havadurumu\havadurumu\obj\Debug\havadurumu.csproj.CoreCompileInputs.cache
+C:\Users\Emre Alper\Desktop\görsel-3 final\havadurumu\havadurumu\obj\Debug\havadurumu.exe
+C:\Users\Emre Alper\Desktop\görsel-3 final\havadurumu\havadurumu\obj\Debug\havadurumu.pdb
